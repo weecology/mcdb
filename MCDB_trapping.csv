@@ -263,7 +263,7 @@ Site_ID,Initial_year,Final_year,N_sampling_months,Trap_nights,Months_of_sampling
 1209,1995,1995,1,780,November,1,0,0,0,each pitfall trapline 100-500 m²; unclear how many or length
 1210,1996,1996,4,4660,April; May; June; July: August; September; October; November,1,0,0,0,each pitfall trapline 100-500 m²; unclear how many or length
 1211,1995,1995,2,1720,August; September,1,0,0,0,each pitfall trapline 100-500 m²; unclear how many or length
-1212,1998,1999,14,49693,all,0,1,0,0,"random placement of Sherman traps in ""area"""
+1212,1998,1999,14,49693,all,0,1,0,0,random placement of Sherman traps in area
 1213,1997,1997,1,2000,July; August; September; October,0,0,0,1,NULL
 1214,1997,1997,1,1300,July; August; September; October,0,0,0,1,NULL
 1215,1997,1997,1,1300,July; August; September; October,0,0,0,1,NULL
@@ -536,9 +536,9 @@ Site_ID,Initial_year,Final_year,N_sampling_months,Trap_nights,Months_of_sampling
 1459,1988,1989,6,NULL,September; October; December; January; March; April,0,1,1,0,cage traps (14x14x31 cm)
 1460,1988,1989,6,NULL,September; October; December; January; March; April,0,1,1,0,cage traps (14x14x31 cm)
 1461,2002,2005,8,1320,April; July; October,0,0,0,1,sampling extent was 9-13 beaver lodges
-1462,2002,2005,8,325,April; July; October,0,0,0,1,"sampling extent was 25 traps along ""standard lines"""
-1463,2002,2005,8,325,April; July; October,0,0,0,1,"sampling extent was 25 traps along ""standard lines"""
-1464,2002,2005,8,325,April; July; October,0,0,0,1,"sampling extent was 25 traps along ""standard lines"""
+1462,2002,2005,8,325,April; July; October,0,0,0,1,sampling extent was 25 traps along standard lines
+1463,2002,2005,8,325,April; July; October,0,0,0,1,sampling extent was 25 traps along standard lines
+1464,2002,2005,8,325,April; July; October,0,0,0,1,sampling extent was 25 traps along standard lines
 1465,1987,1989,3,6000,July; August ,0,0,0,1,NULL
 1466,1987,1989,3,2400,July; August ,0,0,0,1,NULL
 1467,1987,1989,3,6800,July; August ,0,0,0,1,NULL
